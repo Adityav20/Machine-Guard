@@ -20,3 +20,7 @@ Predicted RUL in operational cycles and maintenance-priority alerts based on con
 Primary users
 
 Maintenance managers and reliability engineers.
+
+Success measurement
+
+Held-out-engine MAE, RMSE, alert precision and recall, baseline comparisons, and reproducible inference.
