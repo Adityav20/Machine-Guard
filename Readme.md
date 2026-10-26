@@ -8,3 +8,7 @@ Industrial equipment failures can cause costly unplanned downtime. Maintenance t
 Technical objective
 
 Develop a machine learning system that predicts an engine's remaining useful life using historical sensor measurements.
+
+Available data
+
+NASA C-MAPSS simulated engine degradation trajectories, beginning with FD001.
