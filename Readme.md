@@ -16,3 +16,7 @@ NASA C-MAPSS simulated engine degradation trajectories, beginning with FD001.
 System output
 
 Predicted RUL in operational cycles and maintenance-priority alerts based on configurable thresholds.
+
+Primary users
+
+Maintenance managers and reliability engineers.
